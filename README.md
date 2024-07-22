@@ -1,1 +1,1 @@
-This is a python code linked with several other html and DB files. Feel free to improve anything you find suitable. 
+A python-based user-management system that works on a web interface. 
